@@ -2,7 +2,7 @@
 'use client';
 
 import React from 'react';
-import { Github, Linkedin, Mail, ExternalLink, Code, Briefcase, User } from 'lucide-react';
+import { Github, Linkedin, Mail, ExternalLink, Code, User } from 'lucide-react';
 
 interface Project {
   title: string;
@@ -101,7 +101,7 @@ const Page: React.FC = () => {
           </div>
           <div className="bg-white rounded-lg shadow-sm p-6">
             <p className="text-gray-600 leading-relaxed">
-              I'm a passionate full-stack developer with expertise in modern web technologies.
+              I&apos;m a passionate full-stack developer with expertise in modern web technologies.
               My focus is on creating efficient, scalable, and user-friendly applications
               that solve real-world problems.
             </p>
@@ -149,7 +149,7 @@ const Page: React.FC = () => {
           </div>
           <div className="bg-white rounded-lg shadow-sm p-6">
             <p className="text-center text-gray-600 mb-6">
-              I'm always open to discussing new projects and opportunities.
+            I&apos;m always open to discussing new projects and opportunities.
             </p>
             <div className="flex justify-center space-x-4">
               <a
