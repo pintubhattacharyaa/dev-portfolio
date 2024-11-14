@@ -71,7 +71,7 @@ const Page: React.FC = () => {
           </p>
           <div className="mt-8 flex justify-center space-x-4">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/pintubhattacharyaa"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
@@ -80,7 +80,7 @@ const Page: React.FC = () => {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/pintubhattacharya"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-4 py-2 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 bg-white hover:bg-gray-50"
